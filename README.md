@@ -1,6 +1,6 @@
 # fb11305202
-
-A new Flutter project.
+  
+Firebase authentication with Google sign-in.
 
 ## Getting Started
 
